@@ -12,3 +12,7 @@
 >>git push origin HEAD:refs/for/branchname
 7. To push our commits to the master branch so that we can see in the git hub or branch
 >>git push origin master
+8. To pull the master branch changes to local
+>>git pull origin branch-name
+9. To save the current checked out files as shelveset 
+>>git stash pop stashName
