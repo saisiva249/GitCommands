@@ -1,0 +1,6 @@
+1. clonning a git branch to local folder 
+>>git clone  https://github.com/saisiva249/GitCommands.git
+2. switch to new branch
+>>git chekcout new-branch
+3. To find the status of the current branch and files
+>> git status
