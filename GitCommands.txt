@@ -4,3 +4,11 @@
 >>git chekcout new-branch
 3. To find the status of the current branch and files
 >> git status
+4. To add files 
+>> git add --all
+5. To commit changes with  message 
+>>git commit -m "message"
+6. To push our commits are ready for review
+>>git push origin HEAD:refs/for/branchname
+7. To push our commits to the master branch so that we can see in the git hub or branch
+>>git push origin master
